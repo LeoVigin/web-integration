@@ -19,4 +19,4 @@ npm run dev
 You can access the deployed project here: [Sass](https://sass-ashy-rho.vercel.app/)
 
 ## Authors
-@Leogeox
+@LeoVigin
