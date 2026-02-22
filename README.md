@@ -5,7 +5,7 @@ This project is a small interface prototype based on a mockup and implemented us
 ## Installation & Start
 - Download the folder or clone the repository using
 ``` php
-git clone https://github.com/LeoVigin/integration-web.git
+git clone https://github.com/LeoVigin/web-integration.git
 ```
 - Open the project in any local development server.
 - Install the dependencies:
